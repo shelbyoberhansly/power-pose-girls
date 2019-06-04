@@ -15,7 +15,7 @@ There is! It's called [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-f
 
 In this project we will get CSS power from the Powerpuff Girls using flexbox to pose them. We will provide the html file on the [github](https://github.com/mesuara/power-pose-girls) repo and all you have to do is clone it and adjust the css file.
 
-Let's get to work! Remember we will be using flexbox for _all_ of our divs and there will be some css included on the start up code. And make it look like [this website](https://abbreviatedman.github.io/power-pose-girls-solution/)  
+Let's get to work! Remember we will be using flexbox for _all_ of our divs and there will be some css included on the start up code. And make it look like [this website](https://powerpufffinal--mesuara.repl.co/)  
 
 
 
