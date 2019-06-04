@@ -1,0 +1,11 @@
+p {
+    padding: 20px;
+  }
+
+  div.pictures {
+    height: 800px;
+  }
+  
+  img {
+    height: 400px;
+  }
