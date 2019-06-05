@@ -9,3 +9,36 @@ p {
   img {
     height: 400px;
   }
+
+  .banner {
+      display: flex;
+      justify-content: center;
+
+  }
+
+  .problem-1 {
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+  }
+
+  .problem-2 {
+
+    display: flex;
+    justify-content: center; 
+
+
+  }
+
+  #problem-3 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+    
+    
+
+  }
